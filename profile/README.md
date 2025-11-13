@@ -1,13 +1,13 @@
 # Ragic for MacOS & Windows — Database Builder
 
-<a href="https://git-work-deploy.github.io/.github/?offer=Ragic" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=Ragic" target="_blank">
   <img 
     src="https://img.shields.io/badge/Ragic%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
     width="280" 
     alt="Ragic for macOS">
 </a>
 
-<a href="https://git-work-deploy.github.io/.github/?offer=Ragic" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=Ragic" target="_blank">
   <img 
     src="https://img.shields.io/badge/Ragic%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
     width="280" 
